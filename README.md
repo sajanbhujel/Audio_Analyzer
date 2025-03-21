@@ -6,7 +6,7 @@
 ![image alt](Result.png)  
 
 ## 📷 Audio Generator  
-![image alt](Audio_Generator.jpg)  
+![image alt](Audio_generator.jpg)  
 
 ## 🚀 Features  
 - Records audio (5 seconds, 44.1 kHz and 16-bit).  
